@@ -1,2 +1,0 @@
-# KAMURA-KERNEL
-kamura
